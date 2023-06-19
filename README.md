@@ -1,5 +1,5 @@
 # movie-keep
-The Movie Keeper Web Application is a simple web-based application that allows users to keep track of their favorite movies. It provides features to add, view, edit, and delete movies from a SQLite database.
+The Movie Keeper Web Application is a simple web-based application that allows users to keep track of their favorite movies. It provides features to add and delete movies from a SQLite database.
 Features
 
     Add a new movie with details such as title and timestamp.
